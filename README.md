@@ -1,1 +1,1 @@
-# pulic
+# pulicinitialize database
