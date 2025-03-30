@@ -6,3 +6,4 @@ Fix: user authentication bug
 import pandas as pd
 console.log('User logged in');
 <div class='card'>Content</div>
+SELECT * FROM users;
