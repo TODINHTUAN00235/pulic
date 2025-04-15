@@ -8,3 +8,4 @@ console.log('User logged in');
 <div class='card'>Content</div>
 SELECT * FROM users;
 let isValid = true;
+# API Documentation
