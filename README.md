@@ -9,3 +9,4 @@ console.log('User logged in');
 SELECT * FROM users;
 let isValid = true;
 # API Documentation
+def calculate_area(r): return 3.14 * r * r
